@@ -1,6 +1,6 @@
 # Project01
 This is my first project <br>
-This is a web development project
+This is a web development project<br>
 <b>Project details :</b>
 <ul>
 <li>Nutrition tracker app</li>
