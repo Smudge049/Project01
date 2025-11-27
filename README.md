@@ -1,9 +1,9 @@
 # Project01
 This is my first project <br>
 This is a web development project<br>
-<b>Project details :</b>
+<b>Web based marketplace platform with integrated lost and found section:</b>
 <ul>
-<li>Nutrition tracker app</li>
-<li>Calories tracking</li>
-<li>Daily water intake tracking</li>  
+<li>Marketplace platform</li>
+<li>Lost and found section</li>
+<li>User verification</li>  
 </ul>
