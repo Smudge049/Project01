@@ -6,7 +6,6 @@ This is a web development project<br>
 <li>Lost and found section</li>
 <li>User verification</li>  
 </ul>
-<br><br>
 <b>Built using :<b> 
 <ul>
 <li>HTML</li>
