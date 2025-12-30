@@ -10,6 +10,6 @@
 <b>Built using :<b> 
 <ul>
 <li>HTML</li>
-  <li>CSS</li>
-  <li>Java Script</li>
+<li>CSS</li>
+<li>Java Script</li>
 </ul>
