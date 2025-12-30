@@ -1,10 +1,10 @@
-/* Profile Page Styles */
+/*  Profile Page Styles  */
 
 .profile-container {
     margin-top: 2rem;
 }
 
-/* Profile Header */
+/*  Profile Header  */
 .profile-header {
     background: var(--white);
     border-radius: var(--border-radius);
@@ -128,7 +128,7 @@
     right: 2rem;
 }
 
-/* Profile Tabs */
+/*  Profile Tabs  */
 .profile-tabs {
     display: flex;
     gap: 0.5rem;
@@ -163,7 +163,7 @@
     color: var(--white);
 }
 
-/* Tab Content */
+/*  Tab Content  */
 .profile-tab-content {
     background: var(--white);
     border-radius: var(--border-radius);
@@ -180,7 +180,7 @@
     display: block;
 }
 
-/* Listings Filter */
+/*  Listings Filter  */
 .listings-filter {
     display: flex;
     gap: 0.5rem;
@@ -209,7 +209,7 @@
     border-color: var(--primary-color);
 }
 
-/* Item Actions */
+/*  Item Actions  */
 .item-actions {
     display: flex;
     gap: 0.5rem;
@@ -224,7 +224,7 @@
     font-size: 0.9rem;
 }
 
-/* Reviews List */
+/*  Reviews List  */
 .reviews-list {
     display: flex;
     flex-direction: column;
